@@ -1,0 +1,24 @@
+[ 2015-12-15T00:53:49+08:00 ] 207.46.13.67 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005239s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-15T06:47:54+08:00 ] 207.46.13.67 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004969s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-15T07:56:17+08:00 ] 110.249.142.199 /adminManager!login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005280s ]
+ERR: 无法加载模块:AdminManager!login
+
+[ 2015-12-15T12:24:04+08:00 ] 207.46.13.67 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005239s ]
+ERR: 无法加载模块:Robots
+

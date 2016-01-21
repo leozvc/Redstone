@@ -1,0 +1,18 @@
+[ 2016-01-19T01:51:38+08:00 ] 66.249.75.178 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005241s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-19T03:11:03+08:00 ] 188.165.15.205 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004818s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-19T23:53:53+08:00 ] 180.76.15.151 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005279s ]
+ERR: 无法加载模块:Css
+

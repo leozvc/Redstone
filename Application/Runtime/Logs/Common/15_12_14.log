@@ -1,0 +1,24 @@
+[ 2015-12-14T09:10:22+08:00 ] 220.181.108.75 /p.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004944s ]
+ERR: 无法加载模块:P
+
+[ 2015-12-14T18:05:08+08:00 ] 203.208.60.20 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005268s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-14T19:13:10+08:00 ] 207.46.13.67 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005145s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-14T21:16:46+08:00 ] 123.150.255.195 /login!check.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004949s ]
+ERR: 无法加载模块:Login!check
+

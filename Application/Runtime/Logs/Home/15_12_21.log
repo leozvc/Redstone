@@ -1,0 +1,97 @@
+[ 2015-12-21T11:36:50+08:00 ] 184.105.139.67 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008144s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001850s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007862s ]
+
+[ 2015-12-21T11:53:13+08:00 ] 220.181.38.113 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024386s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009155s ]
+
+[ 2015-12-21T11:53:20+08:00 ] 220.181.38.113 /?a=youtube
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017988s ]
+ERR: 非法操作:youtube
+
+[ 2015-12-21T11:53:25+08:00 ] 220.181.38.113 /?a=youtube
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018127s ]
+ERR: 非法操作:youtube
+
+[ 2015-12-21T11:53:26+08:00 ] 220.181.38.113 /?a=youtube
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017876s ]
+ERR: 非法操作:youtube
+
+[ 2015-12-21T11:53:27+08:00 ] 220.181.38.113 /?a=youtube
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018132s ]
+ERR: 非法操作:youtube
+
+[ 2015-12-21T11:53:28+08:00 ] 220.181.38.113 /?a=youtube
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017957s ]
+ERR: 非法操作:youtube
+
+[ 2015-12-21T11:53:29+08:00 ] 220.181.38.113 /?a=youtube
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017984s ]
+ERR: 非法操作:youtube
+
+[ 2015-12-21T11:53:30+08:00 ] 220.181.38.113 /?a=youtube
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+ERR: 非法操作:youtube
+

@@ -1,0 +1,54 @@
+[ 2015-12-18T06:32:58+08:00 ] 207.46.13.64 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004821s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-18T09:51:38+08:00 ] 163.172.10.39 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004920s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-18T09:51:52+08:00 ] 163.172.10.39 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000434s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005234s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-18T10:21:05+08:00 ] 220.181.38.113 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005265s ]
+ERR: 无法加载模块:Favicon
+
+[ 2015-12-18T11:56:35+08:00 ] 182.118.20.230 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004810s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-18T12:37:00+08:00 ] 207.46.13.64 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005251s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-18T15:34:07+08:00 ] 220.181.38.113 /oauth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载模块:Oauth
+
+[ 2015-12-18T18:18:11+08:00 ] 220.181.38.113 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004985s ]
+ERR: 无法加载模块:Favicon
+
+[ 2015-12-18T18:20:40+08:00 ] 123.125.71.116 /phpinfo.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005191s ]
+ERR: 无法加载模块:Phpinfo
+

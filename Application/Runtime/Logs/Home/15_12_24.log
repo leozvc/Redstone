@@ -1,0 +1,561 @@
+[ 2015-12-24T04:31:07+08:00 ] 66.249.64.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007761s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001847s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007532s ]
+
+[ 2015-12-24T08:51:44+08:00 ] 66.249.64.198 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007995s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001876s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007843s ]
+
+[ 2015-12-24T14:14:23+08:00 ] 184.105.247.195 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007860s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007561s ]
+
+[ 2015-12-24T17:26:15+08:00 ] 89.248.167.162 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008188s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007861s ]
+
+[ 2015-12-24T18:36:31+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000240s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012520s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010015s ]
+
+[ 2015-12-24T18:36:32+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029545s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.022140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.029578s ]
+
+[ 2015-12-24T18:36:32+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008594s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.022119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022961s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007585s ]
+
+[ 2015-12-24T18:36:35+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018922s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001731s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001844s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018770s ]
+
+[ 2015-12-24T18:36:35+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000326s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009277s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017848s ]
+
+[ 2015-12-24T18:36:37+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021910s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018432s ]
+
+[ 2015-12-24T18:36:37+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019318s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012924s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014509s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018366s ]
+
+[ 2015-12-24T18:37:03+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012096s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019769s ]
+
+[ 2015-12-24T18:37:04+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019005s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001934s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019167s ]
+
+[ 2015-12-24T18:37:04+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019966s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018039s ]
+
+[ 2015-12-24T18:37:05+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010679s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002736s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009579s ]
+
+[ 2015-12-24T18:37:08+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017970s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017821s ]
+
+[ 2015-12-24T18:37:08+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019327s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018244s ]
+
+[ 2015-12-24T18:37:17+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008487s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.022281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027926s ]
+
+[ 2015-12-24T18:37:17+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028627s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.027471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.028326s ]
+
+[ 2015-12-24T18:37:17+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.030569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031534s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001944s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002864s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.022175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018356s ]
+
+[ 2015-12-24T18:37:20+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012755s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019410s ]
+
+[ 2015-12-24T18:37:20+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019298s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022283s ]
+
+[ 2015-12-24T18:37:20+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019049s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012661s ]
+
+[ 2015-12-24T18:37:22+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007704s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007732s ]
+
+[ 2015-12-24T18:37:23+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023312s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018404s ]
+
+[ 2015-12-24T18:37:23+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000219s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025107s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001970s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019253s ]
+
+[ 2015-12-24T18:37:25+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008712s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001850s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007186s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008038s ]
+
+[ 2015-12-24T18:37:25+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009094s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001974s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009110s ]
+
+[ 2015-12-24T18:37:26+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029048s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018056s ]
+
+[ 2015-12-24T18:37:26+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008969s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002598s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002749s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008810s ]
+
+[ 2015-12-24T18:37:27+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009076s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008963s ]
+
+[ 2015-12-24T18:37:29+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031024s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019033s ]
+
+[ 2015-12-24T18:37:29+08:00 ] 61.152.150.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029130s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008655s ]
+

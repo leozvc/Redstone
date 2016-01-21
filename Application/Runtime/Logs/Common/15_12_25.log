@@ -1,0 +1,36 @@
+[ 2015-12-25T02:32:42+08:00 ] 123.125.71.53 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005199s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-25T03:10:33+08:00 ] 203.208.60.17 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000195s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005582s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-25T06:20:03+08:00 ] 207.46.13.189 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000324s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005293s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-25T09:48:24+08:00 ] 216.224.174.143 /tmp/kurd.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004952s ]
+ERR: 无法加载模块:Tmp
+
+[ 2015-12-25T13:34:18+08:00 ] 180.76.15.16 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000325s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005508s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-25T13:34:54+08:00 ] 180.76.15.17 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005186s ]
+ERR: 无法加载模块:Robots
+

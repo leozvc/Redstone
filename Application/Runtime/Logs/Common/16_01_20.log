@@ -1,0 +1,48 @@
+[ 2016-01-20T09:45:43+08:00 ] 175.25.25.67 /index.php?m=search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005565s ]
+ERR: 无法加载模块:Search
+
+[ 2016-01-20T09:45:43+08:00 ] 175.25.25.67 /index.php?m=wap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005013s ]
+ERR: 无法加载模块:Wap
+
+[ 2016-01-20T09:45:43+08:00 ] 175.25.25.67 /index.php?m=admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004963s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-01-20T09:45:43+08:00 ] 175.25.25.67 /index.php?m=admin&c=index&a=login&pc_hash=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005257s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-01-20T14:13:04+08:00 ] 40.77.167.1 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000209s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006503s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-20T14:13:10+08:00 ] 40.77.167.1 /video/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005057s ]
+ERR: 无法加载模块:Video
+
+[ 2016-01-20T19:41:27+08:00 ] 111.13.102.6 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004973s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-20T23:10:40+08:00 ] 180.76.15.26 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004828s ]
+ERR: 无法加载模块:Css
+

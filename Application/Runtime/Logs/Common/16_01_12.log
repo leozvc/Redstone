@@ -1,0 +1,36 @@
+[ 2016-01-12T03:25:57+08:00 ] 144.76.30.236 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015422s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-12T03:26:01+08:00 ] 144.76.30.236 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004812s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-12T09:48:07+08:00 ] 66.249.66.30 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005438s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-12T14:04:21+08:00 ] 66.249.66.36 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000275s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005264s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-12T19:54:19+08:00 ] 167.114.172.225 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005114s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-12T22:30:33+08:00 ] 180.76.15.34 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004832s ]
+ERR: 无法加载模块:Robots
+

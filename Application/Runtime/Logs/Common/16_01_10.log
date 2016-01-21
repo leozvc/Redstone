@@ -1,0 +1,48 @@
+[ 2016-01-10T01:57:32+08:00 ] 157.55.39.66 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005159s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-10T01:57:42+08:00 ] 157.55.39.43 /video/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005217s ]
+ERR: 无法加载模块:Video
+
+[ 2016-01-10T08:02:36+08:00 ] 188.165.15.132 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005493s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-10T10:48:23+08:00 ] 68.180.229.23 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005146s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-10T10:48:33+08:00 ] 68.180.230.228 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004803s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-10T19:50:14+08:00 ] 123.125.71.70 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005461s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-10T20:44:25+08:00 ] 207.46.13.9 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005253s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-01-10T20:44:37+08:00 ] 207.46.13.9 /libs/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005252s ]
+ERR: 无法加载模块:Libs
+

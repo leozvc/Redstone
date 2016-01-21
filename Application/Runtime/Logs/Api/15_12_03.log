@@ -1,0 +1,22 @@
+[ 2015-12-03T20:25:02+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008809s ]
+
+[ 2015-12-03T20:25:04+08:00 ] 192.168.2.1 /Api/User/oAuth?code=3882a1be698d2daa18a5bf8c168e00ec&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007978s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008638s ]
+

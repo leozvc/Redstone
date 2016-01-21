@@ -1,0 +1,330 @@
+[ 2015-12-02T22:41:28+08:00 ] 66.249.66.95 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008164s ]
+
+[ 2015-12-02T22:43:14+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008009s ]
+ERR: 无法加载控制器:Api
+
+[ 2015-12-02T22:43:38+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008317s ]
+
+[ 2015-12-02T22:43:40+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007202s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008119s ]
+
+[ 2015-12-02T22:44:18+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008329s ]
+
+[ 2015-12-02T22:44:20+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007971s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008246s ]
+
+[ 2015-12-02T23:17:16+08:00 ] 192.168.2.1 /Api/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008251s ]
+ERR: 无法加载控制器:OAuth
+
+[ 2015-12-02T23:17:47+08:00 ] 192.168.2.1 /Api/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008282s ]
+ERR: 无法加载控制器:OAuth
+
+[ 2015-12-02T23:17:51+08:00 ] 192.168.2.1 /Api/oauth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008144s ]
+ERR: 无法加载控制器:Oauth
+
+[ 2015-12-02T23:17:57+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000456s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008220s ]
+
+[ 2015-12-02T23:18:02+08:00 ] 192.168.2.1 /Api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008252s ]
+
+[ 2015-12-02T23:18:13+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008128s ]
+
+[ 2015-12-02T23:19:48+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007984s ]
+
+[ 2015-12-02T23:22:13+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008514s ]
+
+[ 2015-12-02T23:22:50+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008355s ]
+
+[ 2015-12-02T23:22:51+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008304s ]
+
+[ 2015-12-02T23:23:10+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008243s ]
+
+[ 2015-12-02T23:23:11+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008270s ]
+
+[ 2015-12-02T23:23:24+08:00 ] 192.168.2.1 /Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008277s ]
+
+[ 2015-12-02T23:23:36+08:00 ] 192.168.2.1 /Api/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008237s ]
+ERR: 无法加载控制器:OAuth
+
+[ 2015-12-02T23:23:41+08:00 ] 192.168.2.1 /Api/Index/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008253s ]
+
+[ 2015-12-02T23:25:45+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008319s ]
+
+[ 2015-12-02T23:48:21+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008288s ]
+
+[ 2015-12-02T23:48:43+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010626s ]
+
+[ 2015-12-02T23:48:58+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009020s ]
+
+[ 2015-12-02T23:51:20+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004858s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008840s ]
+
+[ 2015-12-02T23:52:12+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007979s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008553s ]
+
+[ 2015-12-02T23:52:49+08:00 ] 192.168.2.1 /Api/User/oAuth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008831s ]
+
+[ 2015-12-02T23:52:51+08:00 ] 192.168.2.1 /Api/User/oAuth?code=37f17a3107b6e89e7942a76a15dfe9b8&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008781s ]
+
+[ 2015-12-02T23:53:26+08:00 ] 192.168.2.1 /Api/User/oAuth?code=37f17a3107b6e89e7942a76a15dfe9b8&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008925s ]
+
+[ 2015-12-02T23:53:32+08:00 ] 192.168.2.1 /Api/User/oAuth?code=6d2760f473f9d8957f2fe6f29e1cc8c3&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007960s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008918s ]
+
+[ 2015-12-02T23:53:52+08:00 ] 192.168.2.1 /Api/User/oAuth?code=6d2760f473f9d8957f2fe6f29e1cc8c3&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007834s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009052s ]
+
+[ 2015-12-02T23:54:08+08:00 ] 192.168.2.1 /Api/User/oAuth?code=6d2760f473f9d8957f2fe6f29e1cc8c3&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007890s ]
+
+[ 2015-12-02T23:54:12+08:00 ] 192.168.2.1 /Api/User/oAuth?code=6d2760f473f9d8957f2fe6f29e1cc8c3&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007861s ]
+
+[ 2015-12-02T23:54:46+08:00 ] 192.168.2.1 /Api/User/oAuth?code=3d79f6d1604cd4161b41d6f4268f87c8&state=xyz&response_type=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008940s ]
+

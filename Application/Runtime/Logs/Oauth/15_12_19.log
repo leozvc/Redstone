@@ -1,0 +1,242 @@
+[ 2015-12-19T23:37:57+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450539476&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3De60fb11fac6d09dc4436f88742a9cba7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007590s ]
+
+[ 2015-12-19T23:39:15+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450539554&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Dad57b5afe2a27d6742b052a595e54a15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007871s ]
+
+[ 2015-12-19T23:40:49+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450539648&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D0ee06a8c3d1fafd4fe4f95f500970077
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.024141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.025049s ]
+
+[ 2015-12-19T23:40:50+08:00 ] 180.149.143.27 /oauth/token?code=1234567890abcd&client_id=1010&appid=1010&client_secret=1NDGHAQSGWKRT2N7AK91VGMWMC&secret=1NDGHAQSGWKRT2N7AK91VGMWMC&grant_type=authorization_code&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D0ee06a8c3d1fafd4fe4f95f500970077
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007808s ]
+
+[ 2015-12-19T23:41:09+08:00 ] 192.168.2.1 /oauth/token
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007860s ]
+
+[ 2015-12-19T23:42:11+08:00 ] 192.168.2.1 /oauth/token
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007940s ]
+
+[ 2015-12-19T23:42:18+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450539737&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Da884eb46c771075a35a108d177beb6e1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027619s ]
+
+[ 2015-12-19T23:42:19+08:00 ] 180.149.143.153 /oauth/token?code=1234567890abcd&client_id=1010&appid=1010&client_secret=1NDGHAQSGWKRT2N7AK91VGMWMC&secret=1NDGHAQSGWKRT2N7AK91VGMWMC&grant_type=authorization_code&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Da884eb46c771075a35a108d177beb6e1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007684s ]
+
+[ 2015-12-19T23:46:04+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450539963&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D6c299575730893e0424317fa9117c4e6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007868s ]
+
+[ 2015-12-19T23:46:04+08:00 ] 180.149.143.27 /oauth/token?code=1234567890abcd&client_id=1010&appid=1010&client_secret=1NDGHAQSGWKRT2N7AK91VGMWMC&secret=1NDGHAQSGWKRT2N7AK91VGMWMC&grant_type=authorization_code&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D6c299575730893e0424317fa9117c4e6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009378s ]
+
+[ 2015-12-19T23:47:26+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540045&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D398f81af7bee2696c4b34909420d96a7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007776s ]
+
+[ 2015-12-19T23:50:09+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540208&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Df18cacc88332f8467957a71727ba181e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017658s ]
+
+[ 2015-12-19T23:50:10+08:00 ] 180.149.143.154 /oauth/token?code=1234567890abcd&client_id=1010&appid=1010&client_secret=1NDGHAQSGWKRT2N7AK91VGMWMC&secret=1NDGHAQSGWKRT2N7AK91VGMWMC&grant_type=authorization_code&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Df18cacc88332f8467957a71727ba181e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008217s ]
+
+[ 2015-12-19T23:52:26+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540346&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D43095a7bc5d2227d0dfb9be8c3f18dda
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007880s ]
+
+[ 2015-12-19T23:52:27+08:00 ] 180.149.143.154 /oauth/token?code=1234567890abcd&client_id=1010&appid=1010&client_secret=1NDGHAQSGWKRT2N7AK91VGMWMC&secret=1NDGHAQSGWKRT2N7AK91VGMWMC&grant_type=authorization_code&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D43095a7bc5d2227d0dfb9be8c3f18dda
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008065s ]
+
+[ 2015-12-19T23:54:13+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540452&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Dca5014f43774415097c6fb496efa8d83
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015686s ]
+
+[ 2015-12-19T23:54:13+08:00 ] 180.149.143.153 /oauth/token?code=1234567890abcd&client_id=1010&appid=1010&client_secret=1NDGHAQSGWKRT2N7AK91VGMWMC&secret=1NDGHAQSGWKRT2N7AK91VGMWMC&grant_type=authorization_code&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Dca5014f43774415097c6fb496efa8d83
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007927s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007974s ]
+
+[ 2015-12-19T23:54:33+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540472&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Da8abdaf5a2d7c74e512993b763fbfa62
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007873s ]
+
+[ 2015-12-19T23:54:41+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540481&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3Dfac8c82b63b5f8c77ee77425d8a1e1d2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007828s ]
+
+[ 2015-12-19T23:54:50+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540490&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3De254d79213942e03f19d99ac07fe2216
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007845s ]
+
+[ 2015-12-19T23:54:51+08:00 ] 180.149.143.154 /oauth/token?code=1234567890abcd&client_id=1010&appid=1010&client_secret=1NDGHAQSGWKRT2N7AK91VGMWMC&secret=1NDGHAQSGWKRT2N7AK91VGMWMC&grant_type=authorization_code&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3De254d79213942e03f19d99ac07fe2216
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007964s ]
+
+[ 2015-12-19T23:55:20+08:00 ] 192.168.2.1 /oauth/authorize?client_id=1010&response_type=code&display=page&state=1450540519&redirect_uri=http%3A%2F%2Fpassport.baidu.com%2Fphoenix%2Faccount%2Fafterauth%3Fmkey%3D4ae8eb060ca953a147bebaf904e53592
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007915s ]
+

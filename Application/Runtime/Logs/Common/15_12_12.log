@@ -1,0 +1,78 @@
+[ 2015-12-12T00:44:30+08:00 ] 203.208.60.15 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000312s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004951s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T05:19:23+08:00 ] 207.46.13.167 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004984s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T09:04:30+08:00 ] 203.195.147.235 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025083s ]
+ERR: 无法加载模块:Favicon
+
+[ 2015-12-12T09:20:05+08:00 ] 40.77.167.20 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005229s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T11:45:29+08:00 ] 207.46.13.167 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004874s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T12:06:01+08:00 ] 207.46.13.167 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005179s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T12:06:14+08:00 ] 207.46.13.167 /video/ocean.webm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005275s ]
+ERR: 无法加载模块:Video
+
+[ 2015-12-12T12:53:41+08:00 ] 207.46.13.167 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000201s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004855s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T14:35:02+08:00 ] 207.46.13.167 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000316s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004947s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T14:35:10+08:00 ] 207.46.13.167 /video/ocean.ogv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004980s ]
+ERR: 无法加载模块:Video
+
+[ 2015-12-12T15:26:46+08:00 ] 40.77.167.20 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004813s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T18:58:46+08:00 ] 40.77.167.20 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004946s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-12T19:12:34+08:00 ] 203.208.60.19 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005250s ]
+ERR: 无法加载模块:Robots
+

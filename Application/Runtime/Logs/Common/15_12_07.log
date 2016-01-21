@@ -1,0 +1,60 @@
+[ 2015-12-07T01:45:34+08:00 ] 157.55.39.157 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004966s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-07T01:45:53+08:00 ] 157.55.39.157 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000210s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005220s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-07T01:46:12+08:00 ] 157.55.39.157 /libs/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005212s ]
+ERR: 无法加载模块:Libs
+
+[ 2015-12-07T04:35:50+08:00 ] 157.55.39.1 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004926s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-07T05:44:20+08:00 ] 40.77.167.83 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005234s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-07T06:16:31+08:00 ] 40.77.167.48 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004965s ]
+ERR: 无法加载模块:Robots
+
+[ 2015-12-07T06:16:42+08:00 ] 40.77.167.48 /video/ocean.ogv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005129s ]
+ERR: 无法加载模块:Video
+
+[ 2015-12-07T06:22:28+08:00 ] 40.77.167.48 /video/ocean.ogv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004975s ]
+ERR: 无法加载模块:Video
+
+[ 2015-12-07T06:37:21+08:00 ] 40.77.167.48 /video/ocean.ogv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005112s ]
+ERR: 无法加载模块:Video
+
+[ 2015-12-07T19:57:54+08:00 ] 180.76.15.9 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005597s ]
+ERR: 无法加载模块:Robots
+

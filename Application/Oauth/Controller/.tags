@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AuthorizeController	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/AuthorizeController.class.php	/^class AuthorizeController extends Controller$/;"	class	line:6
+index	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/AuthorizeController.class.php	/^    public function index()$/;"	function	line:8
+code	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/AuthorizeController.class.php	/^        $code = '1234567890abcd';$/;"	variable	line:10
+url	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/AuthorizeController.class.php	/^        $url = $_GET['redirect_uri'];$/;"	variable	line:11
+url	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/AuthorizeController.class.php	/^        $url = (parse_url($url));$/;"	variable	line:12
+IndexController	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/IndexController.class.php	/^class IndexController extends Controller$/;"	class	line:6
+index	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/IndexController.class.php	/^    public function index()$/;"	function	line:8
+authorize	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/IndexController.class.php	/^    public function authorize(){$/;"	function	line:12
+TokenController	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/TokenController.class.php	/^class TokenController extends Controller$/;"	class	line:6
+index	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/TokenController.class.php	/^    public function index()$/;"	function	line:8
+user	/Volumes/zuosila/home/wwwroot/laowang/Application/Oauth/Controller/TokenController.class.php	/^    public function user()$/;"	function	line:16

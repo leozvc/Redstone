@@ -1,0 +1,6 @@
+[ 2016-01-15T23:39:44+08:00 ] 191.236.119.223 /cgi-bin/test-cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005328s ]
+ERR: 无法加载模块:Cgi-bin
+
