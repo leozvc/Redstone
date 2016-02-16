@@ -2,9 +2,9 @@
 namespace Common\Util;
 
 class WxTool {
-    const QR_SETDATA = 'https://api.weixin.qq.com/cgi-bin/qrcode/create?access_token=%s';
-    const QR_IMGBAES = 'https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=%s';
-    CONST GETTOKENURL = 'https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=%s&secret=%s';
+    const QR_SET_DATA = 'https://api.weixin.qq.com/cgi-bin/qrcode/create?access_token=%s';
+    const QR_IMG_BAES = 'https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=%s';
+    CONST GET_TOKEN_URL = 'https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=%s&secret=%s';
 
     public static $accesstoekn;
 
@@ -14,7 +14,7 @@ class WxTool {
          * 第一: 再申请几个公众号分流
          * 第二: 跳转地址换成H5. H5内接JSSDK进行操作.
          */
-        $url = sprintf(self::setDateUrl,self::AccessToken());
+        $url = sprintf(self::QR_SET_DATA,self::AccessToken());
         $expiretime = 3600 * 1;
         $key = rand();
         /**todo
@@ -36,7 +36,7 @@ class WxTool {
         $res =  Http::post($url,json_encode($arr));
         $res = json_decode($res,true);
         $ticket = urlencode($res['ticket']);
-        return sprintf(self::QR_IMGBAES,$ticket);
+        return sprintf(self::QR_IMG_BAES,$ticket);
     }
 
     public static function AccessToken(){
@@ -46,7 +46,7 @@ class WxTool {
                 break;
             }
             $appInfo = C('weixin');
-            $res = file_get_contents(sprintf(self::GETTOKENURL,$appInfo['appID'], $appInfo['appsecret']));
+            $res = file_get_contents(sprintf(self::GET_TOKEN_URL,$appInfo['appID'], $appInfo['appsecret']));
             $res = json_decode($res,true);
             $accesstoken = $res['access_token'];
             $expires     = $res['expires_in'];
